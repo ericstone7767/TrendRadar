@@ -1,10 +1,15 @@
-chatgpt
-openai
-sora
+比特币
++价格
+@2
 
-claude
-Anthropic
+黄金
++价格
+@2
 
-ai
-!gai
-人工智能
+人民币
++汇率
+@2
+
+电影
++高分
+@5
